@@ -8,3 +8,7 @@ Une branche par itération avec :
 2. Un dossier "src" pour les sources Java.
 3. Un dossier "documents" pour le(s) fichiers(s) indiquant ce qui a été fait et ce qui sera fait à l'itération suivante.
 4. Pour l'itération 6 (itération finale), inclure dans le dossier "documents" un fichier indiquant toutes les fonctionnalités qui ont été développées, la liste de "bugs" éventuels, et un "manuel utilisateur". A noter que le contenu de la branche itération 6 et celui de la branche main seront identiques.
+
+ATTENTION !
+
+Ne pas oublier les consignes de la SAÉ sur ARCHE : https://arche.univ-lorraine.fr/course/view.php?id=60433
