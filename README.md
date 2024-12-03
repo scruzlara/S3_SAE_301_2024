@@ -13,4 +13,4 @@ ATTENTION !
 
 Ne pas oublier les consignes de la SAÉ sur ARCHE : https://arche.univ-lorraine.fr/course/view.php?id=60433
 
-C'est sur ce site ARCHE que des mises à jour et / ou de nouveaux documents seront déposés.
+C'est sur ce site ARCHE que des mises à jour et / ou des nouveaux documents seront déposés.
